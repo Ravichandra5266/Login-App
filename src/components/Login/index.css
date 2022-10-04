@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.login-btn {
+  font-family: Roboto;
+  font-size: 20px;
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  border-color: #ffffff;
+  margin-top: 20px;
+  color: #303150;
+  padding: 12px;
+}
